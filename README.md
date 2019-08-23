@@ -47,7 +47,7 @@ Network | Bands
 4G | TDD-LTE 34 /38 /39 /40 /41
 4G | FDD-LTE 1 /2 /3 /4 /5 /7 /8 /12 /13 /17 /18 /19 /20 /25 /26 /28A /28B
 
-**This device tree can be used to build twrp for Infinix Note 5**
+**This device tree can be used to build TWRP for Infinix Note 5**
 
 
 ## Build Instructions
