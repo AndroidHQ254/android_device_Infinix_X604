@@ -1,4 +1,4 @@
-# TWRP device tree for Infinix Note 5
+# TWRP Device Tree For Infinix Note 5
 
 ## About Device
 
